@@ -1,0 +1,4 @@
+# ROADMAP
+- Python
+- SQL
+- ML
