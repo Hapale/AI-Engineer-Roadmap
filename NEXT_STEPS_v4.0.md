@@ -1,6 +1,14 @@
 # NEXT_STEPS.md
-Version: 3.0
-Last Update: 2026-07
+Version: 4.0
+
+## Current Sprint
+- Software Architecture
+- Layered Design
+- Clean Code
+
+## Workflow
+Study -> Practice -> Challenge -> Commit -> Push -> Documentation
+
 
 # NEXT STEPS
 
@@ -10,8 +18,6 @@ Last Update: 2026-07
 
 Phase 1
 
-Status:
-✅ Completed
 
 Python Foundations Completed.
 
@@ -21,13 +27,11 @@ Documentation Updated.
 
 Repository Active.
 
-Ready For Phase 2.
-
 ---
 
 # Immediate Goal
 
-Start Phase 2
+Phase 2
 
 Software Engineering
 
@@ -297,7 +301,7 @@ Then continue from the current stage.
 
 Current Documentation Version
 
-Version 3.0
+Version 4.0
 
 Status
 
