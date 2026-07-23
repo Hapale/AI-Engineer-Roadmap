@@ -1,16 +1,10 @@
 # ROADMAP.md
-Version: 4.0
+Version: 3.0
+Last Update: 2026-07
 
 # AI Academy Roadmap
 
-## Phases
-1. Python Foundations ✅
-2. Software Engineering 🔄
-3. Advanced Python
-4. AI Engineering
-5. AI-Crypto Platform
-
-
+---
 
 # پروژه‌ها
 
@@ -322,5 +316,21 @@ Real Project Usage
 
 ---
 
+# Progress
+
+Phase 1
+████████████████████
+100%
+
+Phase 2
+□□□□□□□□□□□□□□
+0%
+
+Overall Roadmap
+
+█░░░░░░░░░░░░░░░░░░
+Start Of Professional Journey
+
+---
 
 # End Of File
