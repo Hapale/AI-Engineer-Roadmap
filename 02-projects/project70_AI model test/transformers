@@ -1,0 +1,18 @@
+from transformers import pipeline
+
+# بارگذاری مدل مستقیماً از پوشه‌ای که روی هارد ذخیره شده است
+local_path = "./my_local_transformer"
+classifier = pipeline("sentiment-analysis", model=local_path, tokenizer=local_path)
+
+# تست مدل به صورت آفلاین
+texts = [
+    "This local model works incredibly fast without internet!",
+    "It's annoying when downloading takes too long."
+]
+
+print("\n--- در حال پردازش آفلاین ---")
+results = classifier(texts)
+
+for text, result in zip(texts, results):
+    print(f"\nمتن: {text}")
+    print(f"نتیجه: {result['label']} (دقت: {result['score']:.4f})")
